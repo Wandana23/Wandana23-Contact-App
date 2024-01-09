@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Wandana23-Contact-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/Wandana23-Contact-App/static/js/main.5de10e2d.js",
+    "static/media/user.png": "/Wandana23-Contact-App/static/media/user.3fa5e55be328b8b1ddf6.png",
+    "index.html": "/Wandana23-Contact-App/index.html",
+    "main.dc4d6ff2.css.map": "/Wandana23-Contact-App/static/css/main.dc4d6ff2.css.map",
+    "main.5de10e2d.js.map": "/Wandana23-Contact-App/static/js/main.5de10e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.5de10e2d.js"
+  ]
+}
